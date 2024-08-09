@@ -55,11 +55,6 @@ def obter_numero(prompt):
 
 # calculadora.py
 
-from operações import adicionar, subtrair, multiplicar, dividir, potencia, raiz_quadrada, logaritmo
-from entrada import obter_numero
-from mensagens import menu
-from validação import validar_escolha
-
 def calculadora():
     menu()
     
