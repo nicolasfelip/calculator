@@ -51,7 +51,6 @@ def obter_numero(prompt):
     except ValueError:
         print("Entrada inválida. Por favor, digite um número.")
         return None
- main
 
 # calculadora.py
 
